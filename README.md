@@ -1,12 +1,12 @@
-# Algorithm-Study
+# Algorithm Study
 코딩테스트 준비를 위한 알고리즘 스터디
 
 ## 참고 사이트
-[프로그래머스](https://programmers.co.kr/)  
-[백준](https://www.acmicpc.net/)
+- [프로그래머스](https://programmers.co.kr/)  
+- [백준](https://www.acmicpc.net/)
 
 ## 사용 언어
-Python
+- Python
 
 ## 공부 기록
 |날짜|공부 내용|
@@ -20,3 +20,4 @@ Python
 |08.14|프로그래머스 힙 1문제 (더 맵게)|
 |08.16|프로그래머스 힙 1문제 (디스크 컨트롤러)|
 |08.17|프로그래머스 힙 1문제 (이중우선순위큐)|
+|08.18|프로그래머스 정렬 2문제 (K번째수, 가장 큰 수)|
